@@ -1,12 +1,15 @@
 screenshoot:
 
-![alt text](https://github.com/mocharsyil/kembar-5/blob/main/ss/Screenshot%(652).png?raw=true)
 
-![Screenshootpost](https://github.com/mocharsyil/kembar-5/blob/main/ss/Screenshot%(652).png)
 
-![Screenshootpost](https://github.com/mocharsyil/kembar-5/blob/main/ss/Screenshot%20(652).png)
+![Screenshoot1](https://github.com/mocharsyil/kembar-5/blob/main/ss/Screenshot%20(652).png)
 
-![Screenshootpost](https://github.com/mocharsyil/student/blob/main/img/Screenshot%20(122).png)
+![Screenshoot2](https://github.com/mocharsyil/kembar-5/blob/main/ss/Screenshot%20(653).png)
+
+![Screenshoot3](https://github.com/mocharsyil/kembar-5/blob/main/ss/Screenshot%20(654).png)
+
+![Screenshoot4](https://github.com/mocharsyil/kembar-5/blob/main/ss/Screenshot%20(655).png)
+
 
 
 
