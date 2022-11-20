@@ -1,9 +1,11 @@
 screenshoot:
-<img src="ss/Screenshot%(652).png">
 
 ![alt text](https://github.com/mocharsyil/kembar-5/blob/main/ss/Screenshot%(652).png?raw=true)
 
 ![Screenshootpost](https://github.com/mocharsyil/kembar-5/blob/main/ss/Screenshot%(652).png)
+
+![Screenshootpost](https://github.com/mocharsyil/kembar-5/blob/main/ss/Screenshot%(652).png)
+
 
 
 # Getting Started with Create React App
